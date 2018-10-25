@@ -1,0 +1,60 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  margin: 0;
+  text-rendering: optimizeLegibility;
+  display: grid;
+  grid-template-columns: repeat(12,[col-start] 1fr);
+  font-size: 1.3em;
+}
+
+.topbar {
+  height: .5em;
+  background: #2980b9;
+  grid-column: span 12;
+}
+
+header {
+  grid-column: span 12;
+  text-align: center;
+}
+
+nav {
+  grid-column: span 12;
+  display: grid;
+  grid-template-columns: repeat(12,[col-start] 1fr);
+  box-shadow: 0 1px 0 #aaa;
+}
+
+header, nav {
+  background: #3498db;
+}
+
+nav .navlinks {
+  grid-column: span 12;
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  grid-column: col-start 3/span 8;
+  grid-gap: .5em;
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+.navlinks a, .title{
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+.navlinks a:hover, .title:hover {
+  color: #ecf0f1;
+}
+
+.content {
+  grid-column: col-start 3/span 8;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  width: 100%;
+}
