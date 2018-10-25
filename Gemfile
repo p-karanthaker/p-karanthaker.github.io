@@ -1,10 +1,6 @@
 source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-end
+gem "github-pages"
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
