@@ -1,5 +1,5 @@
-<nav>
-  <ul class="nav-list">
+<nav class="nav-list">
+  <ul>
     {% for item in site.data.navigation %}
       <li>
         <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>{{ item.name }}</a>
@@ -8,12 +8,14 @@
   </ul>
 </nav>
 
-<nav>
-  <div class="social-nav">
+<nav class="social-nav">
+  <ul>
     {% for item in site.data.social-nav %}
-      <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %} id="{{ item.name }}">
-        <i class="fab {{ item.icon }}"></i> &nbsp
-      </a>
+      <li>
+        <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %} id="{{ item.name }}">
+          <i class="fab {{ item.icon }}"></i> &nbsp
+        </a>
+      </li>
     {% endfor %}
-  </div>
+    </ul>
 </nav>
