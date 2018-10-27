@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-display: swap;
+  src: local('Roboto Condensed'), url(https://fonts.gstatic.com/s/robotocondensed/v16/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2) format('woff2');
+}
+
 html {
   font-family: 'Roboto Condensed', sans-serif;
   height: 100%;
