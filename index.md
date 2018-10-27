@@ -10,8 +10,8 @@ Welcome to my personal website and blog. I intend to use this space as a portfol
 As I begin to write more, this front page will display the latest article I've written in place of this introduction.
 
 Website Checklist:
-- [x] Create GitHub Pages site using Jekyll
-- [ ] Support responsive design
-- [ ] Write About page
-- [ ] Upload CV
-- [ ] Start writing proper blogs!
+- [x] {: aria-label="Website Checklist"} Create GitHub Pages site using Jekyll
+- [x] {: aria-label="Website Checklist"} Support responsive design
+- [ ] {: aria-label="Website Checklist"} Write About page
+- [ ] {: aria-label="Website Checklist"} Upload CV
+- [ ] {: aria-label="Website Checklist"} Start writing proper blogs!

@@ -12,7 +12,7 @@
   <ul>
     {% for item in site.data.social-nav %}
       <li>
-        <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %} id="{{ item.name }}">
+        <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %} title="{{ item.name }}">
           <i class="fab {{ item.icon }}"></i> &nbsp
         </a>
       </li>
