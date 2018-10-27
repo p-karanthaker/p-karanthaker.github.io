@@ -14,24 +14,36 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/styles.css">
     {% feed_meta %}
     {% seo %}
   </head>
   <body>
-    <div class="topbar"></div>
-
-    <header>
-      <a class="title" href="/">
-        <h1>Karan Thaker</h1>
-      </a>
-    </header>
-    
-    {% include navigation.html %}
-    
-    <article class="content">
-      {{ content }}
-    </article>
+    <div class="container">
+      <div class="left">
+        <!-- Global Title / Nav -->
+        <header>            
+          <img src="/assets/images/me-circle.png" alt="Picture of Me"/>
+          <a href="/"><h1 class="hover-link">Karan Thaker</h1></a>
+          <p>
+            <i class="fas fa-code"></i> &#8226
+            <i class="fas fa-dumbbell"></i> &#8226
+            <i class="fab fa-blogger-b"></i>
+          </p>
+          {% include navigation.html %}
+        </header>
+      </div>
+      <div class="right">
+        <!-- Content -->
+        <article class="content">
+          {{ content }}
+        </article>
+        <footer id="footer" class="inner">
+          <p>Copyright © 2018 - Karan Thaker</p>
+        </footer>
+      </div>
+    </div>
   </body>
 </html>

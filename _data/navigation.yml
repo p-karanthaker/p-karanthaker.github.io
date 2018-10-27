@@ -1,10 +1,8 @@
-- name: blog
-  link: /blog.html
+- name: about
+  link: /about.html
+- name: archive
+  link: /archive.html
+- name: contact
+  link: mailto:me@karanthaker.io
 - name: cv
   link: /cv.pdf
-- name: email
-  link: mailto:me@karanthaker.io
-- name: github
-  link: https://github.com/p-karanthaker
-- name: keybase
-  link: https://keybase.io/karant

@@ -1,7 +1,19 @@
 <nav>
-  <div class="navlinks">
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>[{{ item.name }}]</a>
-  {% endfor %}
+  <ul class="nav-list">
+    {% for item in site.data.navigation %}
+      <li>
+        <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>{{ item.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<nav>
+  <div class="social-nav">
+    {% for item in site.data.social-nav %}
+      <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %} id="{{ item.name }}">
+        <i class="fab {{ item.icon }}"></i> &nbsp
+      </a>
+    {% endfor %}
   </div>
 </nav>
