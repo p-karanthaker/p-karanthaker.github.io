@@ -1,8 +1,6 @@
-- name: about
-  link: /about.html
-- name: archive
-  link: /archive.html
+- name: whoami
+  link: /whoami.html
 - name: contact
   link: mailto:me@karanthaker.io
 - name: cv
-  link: https://karant.keybase.pub/CV.pdf
+  link: /cv.pdf

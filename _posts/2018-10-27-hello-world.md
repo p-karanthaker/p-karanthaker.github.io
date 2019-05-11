@@ -14,6 +14,6 @@ written in place of this introduction.
 Website Checklist:
 - [x] {: aria-label="Website Checklist"} Deploy Jekyll site to GitHub Pages
 - [x] {: aria-label="Website Checklist"} Support responsive design
-- [ ] {: aria-label="Website Checklist"} Write 'About' page
-- [ ] {: aria-label="Website Checklist"} Upload CV
+- [x] {: aria-label="Website Checklist"} Write 'About' page
+- [x] {: aria-label="Website Checklist"} Upload CV
 - [ ] {: aria-label="Website Checklist"} Start writing proper blogs!

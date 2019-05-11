@@ -100,6 +100,15 @@ a:hover {
   color: #1976D2;
 }
 
+header img {
+  width: 200px;
+  height: 200px;
+}
+
+.page-nav a {
+  text-decoration: underline;
+}
+
 @media only screen and (max-width: 1365px) {
   .left {
     width: 100%;
