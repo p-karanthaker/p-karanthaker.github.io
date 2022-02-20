@@ -27,7 +27,7 @@ ShowPostNavLinks: true
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/p-karanthaker.github.io/content/posts/intro.md/"
+    URL: "https://github.com/p-karanthaker/p-karanthaker.github.io/blob/master/content/posts/intro.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
