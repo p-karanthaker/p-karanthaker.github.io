@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://karanthaker.io/sitemap.xml
+Sitemap: https://p-karanthaker.github.io/sitemap.xml

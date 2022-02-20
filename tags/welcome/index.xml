@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>welcome on Karan Thaker</title>
-    <link>https://karanthaker.io/tags/welcome/</link>
+    <link>https://p-karanthaker.github.io/tags/welcome/</link>
     <description>Recent content in welcome on Karan Thaker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 18:48:03 +0000</lastBuildDate><atom:link href="https://karanthaker.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 18:48:03 +0000</lastBuildDate><atom:link href="https://p-karanthaker.github.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World</title>
-      <link>https://karanthaker.io/posts/intro/</link>
+      <link>https://p-karanthaker.github.io/posts/intro/</link>
       <pubDate>Sun, 20 Feb 2022 18:48:03 +0000</pubDate>
       
-      <guid>https://karanthaker.io/posts/intro/</guid>
+      <guid>https://p-karanthaker.github.io/posts/intro/</guid>
       <description>Welcome to my blog</description>
     </item>
     

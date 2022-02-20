@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Karan Thaker</title>
-    <link>https://karanthaker.io/tags/</link>
+    <link>https://p-karanthaker.github.io/tags/</link>
     <description>Recent content in Tags on Karan Thaker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 18:48:03 +0000</lastBuildDate><atom:link href="https://karanthaker.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 18:48:03 +0000</lastBuildDate><atom:link href="https://p-karanthaker.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello world</title>
-      <link>https://karanthaker.io/tags/hello-world/</link>
+      <link>https://p-karanthaker.github.io/tags/hello-world/</link>
       <pubDate>Sun, 20 Feb 2022 18:48:03 +0000</pubDate>
       
-      <guid>https://karanthaker.io/tags/hello-world/</guid>
+      <guid>https://p-karanthaker.github.io/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>introduction</title>
-      <link>https://karanthaker.io/tags/introduction/</link>
+      <link>https://p-karanthaker.github.io/tags/introduction/</link>
       <pubDate>Sun, 20 Feb 2022 18:48:03 +0000</pubDate>
       
-      <guid>https://karanthaker.io/tags/introduction/</guid>
+      <guid>https://p-karanthaker.github.io/tags/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>https://karanthaker.io/tags/welcome/</link>
+      <link>https://p-karanthaker.github.io/tags/welcome/</link>
       <pubDate>Sun, 20 Feb 2022 18:48:03 +0000</pubDate>
       
-      <guid>https://karanthaker.io/tags/welcome/</guid>
+      <guid>https://p-karanthaker.github.io/tags/welcome/</guid>
       <description></description>
     </item>
     
