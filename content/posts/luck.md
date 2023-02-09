@@ -5,12 +5,12 @@ date: 2023-02-09T15:29:00+00:00
 # aliases: ["/luck"]
 tags: ["luck", "success"]
 author: "Karan"
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "How luck and success are more related than most gicve credit for"
+description: "How luck and success are more related than most give credit for"
 canonicalURL: "https://karanthaker.io/posts/luck/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
