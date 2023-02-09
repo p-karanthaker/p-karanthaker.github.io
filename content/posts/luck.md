@@ -35,7 +35,7 @@ Successful people often attribute their success to their hard work, determinatio
 
 Now, I'm not diminishing anyone's hard work, determination, or whatever else they may have done. But I want to emphasize that people often overlook the support they've received from others and the good fortune they've had throughout their lives, starting from birth.
 
-It frustrates me when famous celebrities say that all it takes is "hard work, determination, waking up at 5am, etc." because it ignores the countless individuals who have worked tirelessly without having a lucky break to be successful.
+It frustrates me when celebrities say that all it takes is "hard work, determination, waking up at 5am, etc." because it ignores the countless individuals who have worked tirelessly without having a lucky break to be successful.
 
 Here's a good video that discusses this topic in depth:
 https://www.youtube.com/watch?v=3LopI4YeC4I,
